@@ -1,4 +1,4 @@
-## PDE-Solver5vs. Previous Methods
+## PDE-Solver vs. Previous Methods
 
 Different from previous methods that learn a single operator directly, inspired by classical spectral methods in numerical analysis, PDE-Solver composes complex mappings into multiple basis operators. Along with the latent space projection, PDE-Solver presents favorable approximation and convergence properties.
 
